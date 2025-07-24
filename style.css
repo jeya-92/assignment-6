@@ -1,0 +1,43 @@
+*
+{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+    
+body{
+    background-color: forestgreen;
+}
+.input{
+    background-color: white;
+    height: 500px;
+}
+.output{
+    background-color:navy;
+    height:500px;
+}
+.studentmark{
+    width:1000px;
+}
+.tables{
+    padding: 30px;
+    justify-content: center;
+    display:flex;
+
+}
+.login{
+    border: 1px solid black;
+}
+.login input{
+
+padding:5px;
+text-align:center;
+font-weight: bold;
+border:none;
+outline:none;
+width:150px;
+}
+.totalmark{
+    margin-top:100px;
+    margin-left:150px;
+}
